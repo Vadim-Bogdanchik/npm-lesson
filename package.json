@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Vadim-Bogdanchik/npm-lesson/issues"
   },
-  "homepage": "https://github.com/Vadim-Bogdanchik/npm-lesson#readme"
+  "homepage": "https://github.com/Vadim-Bogdanchik/npm-lesson#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
 }
